@@ -1,5 +1,6 @@
 Intel AI Courses, as found on their website: https://software.intel.com/en-us/ai/courses/machine-learning
 
+
 **Summary**
 
 This course provides an overview of machine learning fundamentals on modern Intel® architecture. Topics covered include:
