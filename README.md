@@ -1,4 +1,4 @@
-Intel AI Courses, as found on: https://software.intel.com/en-us/ai/courses/machine-learning
+Intel AI Courses, as found here: https://software.intel.com/en-us/ai/courses/machine-learning
 
 
 **Summary**
